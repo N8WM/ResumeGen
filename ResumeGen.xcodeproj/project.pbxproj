@@ -15,6 +15,7 @@
 		FF164F182C01701500D710A5 /* ResumeGenUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF164F172C01701500D710A5 /* ResumeGenUITests.swift */; };
 		FF164F1A2C01701500D710A5 /* ResumeGenUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF164F192C01701500D710A5 /* ResumeGenUITestsLaunchTests.swift */; };
 		FF164F272C0173B000D710A5 /* ResumeEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF164F262C0173B000D710A5 /* ResumeEditorView.swift */; };
+		FF164F292C01753A00D710A5 /* Section.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF164F282C01753A00D710A5 /* Section.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		FF164F172C01701500D710A5 /* ResumeGenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResumeGenUITests.swift; sourceTree = "<group>"; };
 		FF164F192C01701500D710A5 /* ResumeGenUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResumeGenUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		FF164F262C0173B000D710A5 /* ResumeEditorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResumeEditorView.swift; sourceTree = "<group>"; };
+		FF164F282C01753A00D710A5 /* Section.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Section.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				FF164F262C0173B000D710A5 /* ResumeEditorView.swift */,
 				FF164F002C01701500D710A5 /* Assets.xcassets */,
 				FF164F022C01701500D710A5 /* Preview Content */,
+				FF164F282C01753A00D710A5 /* Section.swift */,
 			);
 			path = ResumeGen;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF164EFF2C01701400D710A5 /* ContentView.swift in Sources */,
+				FF164F292C01753A00D710A5 /* Section.swift in Sources */,
 				FF164F272C0173B000D710A5 /* ResumeEditorView.swift in Sources */,
 				FF164EFD2C01701400D710A5 /* ResumeGenApp.swift in Sources */,
 			);
